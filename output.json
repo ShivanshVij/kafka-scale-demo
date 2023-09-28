@@ -1,0 +1,15 @@
+{
+  "Context": {
+    "Input":{
+      "Key":"dGVzdC1rZXk=",
+      "Offset":64,
+      "Partition":32,
+      "Record":"ewogICAgIm9yZGVyX2lkIjogMSwKICAgICJwcm9kdWN0X2lkIjogMTIsCiAgICAicXVhbnRpdHkiOiAyLAogICAgImFtb3VudCI6IDU2LjAsCiAgICAic2hpcHBpbmciOiAxNS4wLAogICAgInRheCI6IDIuMAp9",
+      "Timestamp":"September 27, 2023",
+      "Topic":"example-topic"
+    },"Output":{
+      "Key":"dGVzdC1rZXk=",
+      "Record":"eyJvcmRlcl9pZCI6MSwicHJvZHVjdF9pZCI6MTIsInF1YW50aXR5IjoyLCJ0b3RhbCI6NzMuMH0=",
+      "Timestamp":"September 27, 2023"}
+  }
+}

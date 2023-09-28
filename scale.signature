@@ -1,0 +1,53 @@
+
+version = "v1alpha"
+context = "context"
+
+model Context {
+  model Input {
+    reference = "Input"
+  }
+
+  model Output {
+    reference = "Output"
+  }
+}
+
+model "Input" {
+  string "Timestamp" {
+    default  = ""
+  }
+
+  bytes "Key" {
+    initial_size = 0
+  }
+
+  bytes "Record" {
+    initial_size = 0
+  }
+
+  string "Topic" {
+    default  = ""
+  }
+
+  int32 "Partition" {
+    default  = 0
+  }
+
+  int32 "Offset" {
+    default  = 0
+  }
+}
+
+model "Output" {
+  string "Timestamp" {
+    default  = ""
+  }
+
+  bytes "Key" {
+    initial_size = 0
+  }
+
+  bytes "Record" {
+    initial_size = 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Context": {
+    "Input": {
+      "Key": "dGVzdC1rZXk=",
+      "Record": "ewogICAgIm9yZGVyX2lkIjogMSwKICAgICJwcm9kdWN0X2lkIjogMTIsCiAgICAicXVhbnRpdHkiOiAyLAogICAgImFtb3VudCI6IDU2LjAsCiAgICAic2hpcHBpbmciOiAxNS4wLAogICAgInRheCI6IDIuMAp9",
+      "Timestamp": "September 27, 2023",
+      "Topic": "example-topic",
+      "Partition": 32,
+      "Offset": 64
+    },
+    "Output": {
+      "Key": "",
+      "Record": "",
+      "Timestamp": ""
+    }
+  }
+}
+

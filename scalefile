@@ -1,0 +1,15 @@
+version  = "v1alpha"
+name     = "kafkatransforms"
+tag      = "latest"
+language = "rust"
+
+signature {
+  organization = "shivanshvij"
+  name         = "kafkatransforms"
+  tag          = "latest"
+}
+
+stateless   = false
+function    = "scale"
+initialize  = ""
+description = ""
